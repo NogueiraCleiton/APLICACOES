@@ -56,6 +56,11 @@ section{
 
 section > p{
     padding-bottom: 2em;
+    margin: 16px 400px 0px 0px;
+    text-align: left;
+    text-indent: 30px;
+    font-size: 1em;
+    line-height: 2em;
 }
 
 section.normal{
